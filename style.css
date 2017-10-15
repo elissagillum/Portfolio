@@ -1,0 +1,223 @@
+#container {
+  width: 970px;
+  height: auto;
+  background-color: #423037;
+}
+.header{
+  width: 970px;
+  height: 60px;
+  margin: 0px;
+  background-color: silver;
+}
+.header h1{
+  font-family: "comic sans ms";
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+}
+.header h1 span{
+  float: right;
+  font-family: "arial";
+  font-size: 15pt;
+  padding-top: 15px;
+  padding-right: 35px;
+}
+#bio{
+margin: 20px;
+background-color: #423037;
+}
+#bio img{
+  width: 380px;
+  height: auto;
+  border: 5px solid #c0c0c0;
+  vertical-align: top;
+}
+#bio .aboutme {
+  display: inline-block;
+  width: 510px;
+  vertical-align: top;
+  margin-left: 20px;
+  padding-bottom: 15px;
+  font-family: "arial";
+  font-size: 12pt;
+  background-color: #e8dfe8;
+}
+#bio .aboutme h3{
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin-top: 0px;
+  color: white;
+  background-color: #8d8b97;
+}
+#bio p{
+  padding-left: 10px;
+  padding-bottom: 3px;
+}
+#bio a{
+  color: black;
+  padding-left: 10px;
+}
+
+#projects{
+  width: 945px;
+  margin-right: 20px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: #423037;
+  padding-left: 25px;
+  padding-bottom: 25px;
+}
+#projects p{
+  width: 285px;
+  margin: 0px;
+  padding-top: 5px;
+  padding-left: 5px;
+  font-family: "arial";
+  font-size: 10pt;
+}
+#projects h3{
+  width: 280px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 0px;
+  font-family: "arial";
+  color: white;
+  background-color: #8d8b97;
+}
+#projects h4{
+  width: 280px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 0px;
+  font-family: "arial";
+  color: white;
+  background-color: #8d8b97;
+}
+#projects ul{
+  width: 280px;
+  background-color: #e8dfe8;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 25px;
+  padding-left: 10px;
+  list-style: none;
+}
+#projects ul li{
+  display: inline-block;
+}
+#projects ul img{
+  width: 35px;
+  height: auto;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 10px;
+}
+#projects .lamode {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+}
+#projects .lamode p{
+  padding-bottom: 50px;
+  background-color: #e8dfe8;
+}
+.lamode img {
+  width: 290px;
+}
+#projects .familycontacts {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+}
+#projects .familycontacts p{
+  padding-bottom: 35px;
+  background-color: #e8dfe8;
+}
+.familycontacts img {
+  width: 290px;
+}
+#projects .familycontacts ul{
+  padding-bottom: 25px;
+}
+#projects .fiveeleven {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+}
+#projects .fiveeleven p{
+  background-color: #e8dfe8;
+}
+.fiveeleven img {
+  width: 290px;
+}
+#projects button{
+  background-color: #e8dfe8;
+  display: inline-block;
+  color: white;
+  background-color: #407d61;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+#projects .lamode ul button{
+  vertical-align: bottom;
+  margin-left: 100px;
+  margin-top: 10px;
+  padding: 3px;
+}
+#projects .familycontacts ul button{
+  vertical-align: bottom;
+  padding: 3px;
+  margin-top: 10px;
+  margin-left: 75px;
+}
+#projects .fiveeleven ul button{
+  vertical-align: bottom;
+  padding: 3px;
+  margin-top: 10px;
+  margin-left: 90px;
+}
+#footer{
+  width: 970px;
+  background-color: #e8dfe8;
+  font-family: "arial";
+  font-size: 10pt;
+  text-align: center;
+  padding-bottom: 5px;
+}
+#footer p{
+  padding-bottom: 10px;
+  vertical-align: middle;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 5px;
+}
+#footer ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  vertical-align:bottom;
+  padding-left: 5px;
+  display: inline-block;
+  list-style: none;
+}
+#footer ul img{
+  width: 15px;
+  height: auto;
+  display: inline-block;
+  padding-right: 5px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  vertical-align: bottom;
+}
+#footer ul li{
+  display: inline-block;
+}
+#footer ul a{
+  vertical-align: top;
+  color: black;
+}
