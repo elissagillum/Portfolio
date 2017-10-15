@@ -204,6 +204,7 @@ background-color: #423037;
   padding-left: 5px;
   display: inline-block;
   list-style: none;
+  font-style: italic;
 }
 #footer ul img{
   width: 15px;
